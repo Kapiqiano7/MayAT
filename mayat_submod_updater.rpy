@@ -1,16 +1,26 @@
 # Legacy Submod Updater Plugin support
 
 init -989 python:
-    legacy_submod_api = getattr(store.mas_submod_utils, "Submod", None)
-    sup_utils = getattr(store, "sup_utils", None)
+    _mayat_submod_api = getattr(
+        store.mas_submod_utils, "Submod", None
+    )
+    _mayat_is_installed = getattr(
+        store.mas_submod_utils, "isSubmodInstalled", None
+    )
+    _mayat_sup_utils = getattr(store, "sup_utils", None)
+    _mayat_submod_map = getattr(
+        store.mas_submod_utils, "submod_map", {}
+    )
 
     if (
-        legacy_submod_api is not None
-        and store.mas_submod_utils.isSubmodInstalled("Submod Updater Plugin")
-        and sup_utils is not None
-        and hasattr(sup_utils, "SubmodUpdater")
+        _mayat_submod_api is not None
+        and callable(_mayat_is_installed)
+        and _mayat_is_installed("Submod Updater Plugin")
+        and "MayAT" in _mayat_submod_map
+        and _mayat_sup_utils is not None
+        and callable(getattr(_mayat_sup_utils, "SubmodUpdater", None))
     ):
-        sup_utils.SubmodUpdater(
+        _mayat_sup_utils.SubmodUpdater(
             submod="MayAT",
             user_name="Kapiqiano7",
             repository_name="MayAT",
