@@ -38,7 +38,7 @@ These are possible directions for future dialogue collections, not features alre
 ## 📁 Project Structure
 
 ```text
-ChatGPT-Submod/
+MayAT/
 │
 ├── header.json
 ├── submod_info.rpy
@@ -51,7 +51,7 @@ ChatGPT-Submod/
     ├── fedora.rpy
     ├── linux_mint.rpy
     └── debian.rpy
-    └── (others in the future)
+    └── ...
 ```
 
 ## 📥 Installation
