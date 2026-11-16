@@ -1,5 +1,6 @@
-# ChatGPT Submod - Five Linux Distros Dialogues
-# Registers five player-initiated Linux conversation topics.
+# Monika, are you Alan Tuning? (MayAT)
+# First collection: five player-initiated Linux distribution conversations.
+# The project is intended to grow into broader technology and computer-science topics.
 
 init 5 python:
 
