@@ -2,7 +2,7 @@
 
 label monika_kapiqiano_linux_arch:
     m 1eua "Ah, Arch Linux! That one has quite a reputation."
-    m 3eua "Its philosophy is often described as keeping things simple, but 'simple' doesn't necessarily mean 'easy'."
+    m 3eua "Arch's philosophy emphasizes simplicity, but 'simple' doesn't necessarily mean 'easy'."
     m 1eua "Arch gives you a relatively minimal starting point and expects you to make many choices yourself."
     m 3eua "You decide which desktop environment, services, and extra components you want to install."
     m 1eua "That can teach you a lot about how a Linux system is put together."
