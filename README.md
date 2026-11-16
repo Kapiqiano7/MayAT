@@ -51,13 +51,14 @@ ChatGPT-Submod/
     ├── fedora.rpy
     ├── linux_mint.rpy
     └── debian.rpy
+    └── (others in the future)
 ```
 
 ## 📥 Installation
 
 1. Download or clone this repository.
 2. Extract the project folder.
-3. Move the submod folder into your MAS `DDLC/game/Submods/` directory.
+3. Move the `game` folder into your MAS main directory.
 4. Launch Monika After Story.
 5. Look for the technology-related conversation topics.
 
@@ -74,9 +75,7 @@ ChatGPT-Submod/
 
 ## ⚠️ Disclaimer
 
-This is an unofficial, fan-made project. It is not affiliated with, endorsed by, or an official product of OpenAI, the Monika After Story team, or any Linux distribution mentioned in this repository.
-
-The name ChatGPT refers to the AI assistance used during development.
+This is an unofficial, fan-made project. It is not affiliated with, endorsed by, or an official product of the Monika After Story team, or any Linux distribution mentioned in this repository.
 
 ## 📜 License
 
