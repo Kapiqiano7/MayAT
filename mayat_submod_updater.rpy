@@ -5,6 +5,6 @@ init -989 python:
         store.sup_utils.SubmodUpdater(
             submod="Monika, are you Alan Tuning?",
             user_name="Kapiqiano7",
-            repository_name="ChatGPT-Submod",
+            repository_name="MayAT",
             tag_formatter=lambda tag: tag.lstrip("v")
         )
