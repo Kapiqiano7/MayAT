@@ -4,7 +4,6 @@ label monika_kapiqiano_linux_fedora:
     m 1eua "Fedora is an interesting choice because it often brings relatively new technologies to the Linux desktop."
     m 3eua "The main desktop edition, Fedora Workstation, uses GNOME by default."
     m 3eua "Fedora is an upstream project for Red Hat Enterprise Linux, so technologies developed in Fedora can eventually become part of the wider Red Hat ecosystem."
-    m 3eua "It's closely connected to the wider Red Hat ecosystem, and technologies developed in Fedora can influence what comes later in that world."
     m 1eua "For package management, Fedora uses DNF5 with RPM packages."
     m 3eua "That differs from the APT and DEB ecosystem used by Debian and Ubuntu."
     m 1eua "Fedora also places a strong emphasis on security features, including SELinux."
