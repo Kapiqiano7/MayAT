@@ -4,8 +4,15 @@
     "name": "MayAT",
     "version": "1.0.3",
     "description": "An unofficial fan-made MAS dialogue submod about technology, computing, and computer science. Its first collection features five Linux distributions.",
+    "updater": {
+        "provider": "git",
+        "settings": {
+            "url": "https://github.com/Kapiqiano7/MayAT.git"
+        }
+    },
     "modules": [
         "main",
+        "submod_info",
         "mayat_submod_updater",
         "topics/ubuntu",
         "topics/arch",
