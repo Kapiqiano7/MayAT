@@ -1,8 +1,8 @@
 {
     "header_version": 1,
     "author": "Kapiqiano",
-    "name": "Monika, are you Alan Tuning?",
-    "version": "1.0.2",
+    "name": "MayAT",
+    "version": "1.0.3",
     "description": "An unofficial fan-made MAS dialogue submod about technology, computing, and computer science. Its first collection features five Linux distributions.",
     "modules": [
         "main",
