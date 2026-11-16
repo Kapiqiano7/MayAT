@@ -3,7 +3,7 @@
 init -990 python:
     store.mas_submod_utils.Submod(
         author="Kapiqiano",
-        name="MayAT?",
+        name="MayAT",
         description="Technology and computing conversations with Monika. The first collection covers Ubuntu, Arch Linux, Fedora, Linux Mint, and Debian.",
         version="1.0.3"
     )
