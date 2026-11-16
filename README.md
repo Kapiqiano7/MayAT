@@ -58,7 +58,7 @@ MayAT/
 
 ## 📥 Installation
 
-1. Download this repository as a ZIP file, or clone it using Git.
+1. Download the ZIP file attached to the latest release from the **Releases** page. Do not download the automatically generated **Source code** archive. Alternatively, clone the repository using Git.
 2. If you downloaded the ZIP file, extract it.
 3. Copy the `game` folder into your Monika After Story main directory. If prompted, allow your operating system to merge the folders.
 4. Launch Monika After Story.
