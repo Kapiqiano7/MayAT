@@ -6,6 +6,7 @@
     "description": "An unofficial fan-made MAS dialogue submod about technology, computing, and computer science. Its first collection features five Linux distributions.",
     "modules": [
         "main",
+        "mayat_submod_updater",
         "topics/ubuntu",
         "topics/arch",
         "topics/fedora",
