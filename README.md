@@ -30,7 +30,7 @@ These are possible directions for future dialogue collections, not features alre
 ## ✨ Features
 
 - 5 individual Linux dialogue topics in the first collection.
-- English conversations.
+- All conversations are written in English.
 - Separate files for each topic.
 - Easy-to-edit project structure.
 - Designed for Monika After Story.
@@ -39,28 +39,30 @@ These are possible directions for future dialogue collections, not features alre
 
 ```text
 MayAT/
-│
-├── header.json
-├── submod_info.rpy
-├── chatgpt_submod_updater.rpy
-├── main.rpy
-│
-└── topics/
-    ├── ubuntu.rpy
-    ├── arch.rpy
-    ├── fedora.rpy
-    ├── linux_mint.rpy
-    └── debian.rpy
-    └── ...
+├── README.md
+└── game/
+    └── Submods/
+        └── MayAT/
+            ├── header.json
+            ├── submod_info.rpy
+            ├── mayat_submod_updater.rpy
+            ├── main.rpy
+            └── topics/
+                ├── ubuntu.rpy
+                ├── arch.rpy
+                ├── fedora.rpy
+                ├── linux_mint.rpy
+                ├── debian.rpy
+                └── ...
 ```
 
 ## 📥 Installation
 
-1. Download or clone this repository.
-2. Extract the project folder.
-3. Move the `game` folder into your MAS main directory.
+1. Download this repository as a ZIP file, or clone it using Git.
+2. If you downloaded the ZIP file, extract it.
+3. Copy the `game` folder into your Monika After Story main directory. If prompted, allow your operating system to merge the folders.
 4. Launch Monika After Story.
-5. Look for the technology-related conversation topics.
+5. Find the new technology-related conversations under **Talk** → **Hey, Monika...** → **Technology**.
 
 ## 🛠️ Project Information
 
@@ -79,7 +81,7 @@ This is an unofficial, fan-made project. It is not affiliated with, endorsed by,
 
 ## 📜 License
 
-No license has been assigned yet. All rights remain with their respective authors unless otherwise stated.
+No license has been specified for this project. All rights remain with their respective copyright holders. No permission to reuse, modify, or redistribute the project is granted by default.
 
 ---
 
