@@ -8,5 +8,5 @@ init -990 python:
             author="Kapiqiano",
             name="MayAT",
             description="Technology and computing conversations with Monika. The first collection covers Ubuntu, Arch Linux, Fedora, Linux Mint, and Debian.",
-            version="2.0.0"
+            version="2.0.1"
         )
