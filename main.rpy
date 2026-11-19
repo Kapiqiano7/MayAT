@@ -1,4 +1,4 @@
-# Monika, are you Alan Tuning? (MayAT)
+# Monika, are you Alan Turing? (MayAT)
 # First collection: five player-initiated Linux distribution conversations.
 # The project is intended to grow into broader technology and computer-science topics.
 
