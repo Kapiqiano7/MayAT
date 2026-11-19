@@ -1,4 +1,4 @@
-# Monika, are you Alan Tuning? (MayAT)
+# Monika, are you Alan Turing? (MayAT)
 
 An unofficial fan-made dialogue submod for **Monika After Story (MAS)**.
 
@@ -68,7 +68,7 @@ MayAT/
 
 | Property | Value |
 |---|---|
-| Name | Monika, are you Alan Tuning? |
+| Name | Monika, are you Alan Turing? |
 | Short name | MayAT |
 | Author | Kapiqiano |
 | Language | English |
